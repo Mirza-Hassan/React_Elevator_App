@@ -53,7 +53,7 @@ npm install --save-dev jest
 ```
 npm test
 ```
-![Frontend_testing](https://github.com/Mirza-Hassan/React_Elevator_App/assets/17096257/5a94e372-1e52-4b24-9c50-972bcfed2a19)
+![Frontend_testing](https://github.com/Mirza-Hassan/React_Elevator_App/assets/17096257/510644da-db4b-479a-bf38-8d32e5a61878)
 
 Backend Testing
 
@@ -66,7 +66,7 @@ npm install --save-dev jest supertest
 ```
 npm test
 ```
-![Backend_testing](https://github.com/Mirza-Hassan/React_Elevator_App/assets/17096257/e95e0a0b-669b-4b89-844e-35bd53afe482)
+![Backend_testing](https://github.com/Mirza-Hassan/React_Elevator_App/assets/17096257/2ce51a57-b747-434a-ad79-14999e069a30)
 
 # API Documentation
 
@@ -160,9 +160,9 @@ Create two independent demo users for testing purposes:
 
 # Screenshot
 
-![ss1](https://github.com/Mirza-Hassan/React_Elevator_App/assets/17096257/535ec410-5883-441c-a257-25fb41ce0f2e)
+![ss1](https://github.com/Mirza-Hassan/React_Elevator_App/assets/17096257/0d98082a-98c1-4723-8ff3-8a08a93b7bc7)
 
-![ss2](https://github.com/Mirza-Hassan/React_Elevator_App/assets/17096257/d67b7e52-3e75-4a52-9626-4d1f1f3d2eb2)
+![ss2](https://github.com/Mirza-Hassan/React_Elevator_App/assets/17096257/639f835f-6ae8-406a-acef-e8d486791966)
 
 # App Flow
 [demo.webm](https://github.com/Mirza-Hassan/React_Elevator_App/assets/17096257/91b0ddda-c7c1-47bf-9451-a969be44b4f0)
