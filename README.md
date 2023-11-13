@@ -26,7 +26,7 @@ Build a user-friendly web app for a smart elevator maintenance company. The dash
 - Testing: React Testing Library, Jest
 
 # Folder Structure
-![Folder_Structure](https://github.com/Mirza-Hassan/React_Elevator_App/assets/17096257/ce0b2255-cb0d-465c-9203-48f2cb1abed2)
+![Folder_Structure](https://github.com/Mirza-Hassan/React_Elevator_App/assets/17096257/60881b4f-f717-428c-9753-8dcc000db9cb)
 
 # Setup Instructions
 
