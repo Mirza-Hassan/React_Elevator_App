@@ -1,0 +1,20 @@
+/* ElevatorDetail.css */
+
+.elevator-detail-container {
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #f4f4f4;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.elevator-detail-title, .elevator-operational-chart-title {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.elevator-detail-info {
+    margin-bottom: 5px;
+    font-size: 16px;
+    color: #555;
+}
