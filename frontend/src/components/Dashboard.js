@@ -46,7 +46,6 @@ const Dashboard = ({ allElevators, elevators, onElevatorClick, selectedElevator,
           });
 
           if (response.ok) {
-            saveAllElevators();
             console.log('Login successful');
           } else {
             // Handle error
@@ -62,6 +61,7 @@ const Dashboard = ({ allElevators, elevators, onElevatorClick, selectedElevator,
 
   // Function to handle login
   const handleLoginClick = () => {
+    saveAllElevators();
     loginWithRedirect();
   };
 
