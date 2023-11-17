@@ -169,4 +169,4 @@ Create two independent demo users for testing purposes:
 
 # Live DEMO
 
-I will share the Live Demo soon. [In-progess] 
+https://reactelevatorapp.surge.sh/ [Experiencing an issue; I'll resolve it asap]
